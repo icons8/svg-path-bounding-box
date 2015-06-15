@@ -6,6 +6,9 @@
     "url": "https://github.com/icons8/svg-path-bounding-box"
   },
   "main": "index.js",
+  "bin": {
+    "svg-path-bounding-box": "./bin/svg-path-bounding-box.js"
+  },
   "dependencies": {
     "svgpath": "^2.0.0"
   },
