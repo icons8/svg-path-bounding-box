@@ -1,7 +1,7 @@
 {
   "name": "svg-path-bounding-box",
   "description": "SVG path bounding box calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/icons8/svg-path-bounding-box"
   },
