@@ -1,0 +1,21 @@
+{
+  "name": "svg-path-bounding-box",
+  "description": "SVG path bounding box calculator",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/icons8/svg-path-bounding-box"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "svgpath": "^2.0.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "jshint index.js && node_modules/.bin/mocha"
+  },
+  "devDependencies": {
+    "jshint": "^2.4.1",
+    "mocha": "^2.2.4",
+    "should": "^4.6.5"
+  }
+}
