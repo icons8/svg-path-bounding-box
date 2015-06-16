@@ -7,7 +7,7 @@
   },
   "main": "index.js",
   "bin": {
-    "svg-path-bounding-box": "./bin/svg-path-bounding-box.js"
+    "svg-path-bounding-box": "./bin/caster.js"
   },
   "dependencies": {
     "svgpath": "^2.0.0"
