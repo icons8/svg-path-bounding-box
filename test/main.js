@@ -24,8 +24,9 @@ describe('svg-path-bounding-box', function () {
     caster(
       'M100,200 C100,100 250,100 250,200 S400,300 400,200'
     )
+      .scale(.5)
       .toString()
-      .should.eql('100 125 300 150');
+      .should.eql('50 62.5 150 75');
 
 
     caster(
